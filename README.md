@@ -2,6 +2,9 @@
 
 > My transcendent Nuxt.js project
 
+## Screenshot
+![Image Slider](https://i.ibb.co/J3v1nmQ/Screen-Shot.png)
+
 ## Build Setup
 
 ``` bash
